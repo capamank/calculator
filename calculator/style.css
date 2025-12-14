@@ -1,0 +1,20 @@
+body{
+    margin: 00px;
+    padding: 00px;
+    background-color: black;
+    justify-content: center;
+}
+.container{
+    margin:135px 349px;
+    
+}
+.button-operator{
+    margin: 00px;
+}
+.bt{
+    margin:11px 15px;
+}
+.bt :hover{
+    background-color: aqua;
+    transition: 0.3s;
+}
